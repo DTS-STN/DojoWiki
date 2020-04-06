@@ -1,5 +1,6 @@
 ## Welcome to the Dojo Program 
 insert blurb here
+
 Your Dojo experience will be tailored from the following service categories:
 
 ### Planning
