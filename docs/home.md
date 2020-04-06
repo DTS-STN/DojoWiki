@@ -1,5 +1,5 @@
 ## Welcome to the Dojo Program 
-insert blurb here
+The Dojo Program outlines the service offerings provided by the Dojo Masters during a standard engagement.  As all engagements are custom tailored for each client the program will vary from one engagement to the next. 
 
 Your Dojo experience will be tailored from the following service categories:
 
@@ -7,7 +7,7 @@ Your Dojo experience will be tailored from the following service categories:
 insert blurb and link here
 
 ### Development
-insert blurb and link here
+insert blurb and [link](./development)
 
 ### Testing
 insert blurb and link here
