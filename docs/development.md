@@ -36,7 +36,7 @@ Name title | Description blurb | Link
 Name title | Description blurb | Link
 Name title | Description blurb | Link
 
-### Other related Links
+### Other related links
 
 Title | Description | Link
 ------------ | ------------- | -------------
