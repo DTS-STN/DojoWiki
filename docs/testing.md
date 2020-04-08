@@ -24,9 +24,10 @@ Name title | Description blurb | Link
 
 Title | Description | Link
 ------------ | ------------- | -------------
-Name title | Description blurb | Link
-Name title | Description blurb | Link
-Name title | Description blurb | Link
+WAVE | WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.  | https://wave.webaim.org/
+Lighthouse | Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO and more. | https://developers.google.com/web/tools/lighthouse/
+NVDA | A free and open source screen reader for Windows. | https://developer.paciellogroup.com/blog/2008/01/nvda-a-free-and-open-source-screen-reader-for-windows/
+W3C WIA | Making the Web Accessible  -  Strategies, standards, and supporting resources to help you make the Web more accessible to people with disabilities | https://www.w3.org/WAI/
 
 #### UI/UX
 
