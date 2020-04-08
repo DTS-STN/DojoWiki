@@ -16,7 +16,7 @@ Name title | Description blurb | Link
 
 Title | Description | Link
 ------------ | ------------- | -------------
-Name title | Description blurb | Link
+Kubernetes Intro | Information about the beginnings of Kubernetes and what it means. Contains information about cloud naming. | https://kube.academy/courses/getting-started
 Name title | Description blurb | Link
 Name title | Description blurb | Link
 
